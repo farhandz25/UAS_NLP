@@ -1,0 +1,5 @@
+[LANGSMITH] Tracing diaktifkan. Semua proses Chain dan Graph akan tercatat.
+[WARNING] OPENAI_API_KEY tidak ditemukan di .env. Menggunakan Mock LLM untuk demonstrasi.
+=== RESPONS MOCK (Umum) ===
+
+Halo! Saya adalah Asisten Otomotif Cerdas. Silakan tanyakan hal apa pun terkait otomotif seperti jadwal servis berkala, spesifikasi mobil, rekomendasi kendaraan, atau diagnosis kerusakan (troubleshooting) mobil Anda!
